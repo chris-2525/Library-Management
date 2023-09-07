@@ -1,16 +1,4 @@
-// Final Project Milestone 3 
-// Date Module
-// File	Date.cpp
-// Version 1.0
-// Author	Christine Ang; Student ID#: 121559223
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-// 
-// I have done all the coding by myself and only copied the code 
-// that my professor provided to complete my workshops and assignments
-// 
-/////////////////////////////////////////////////////////////////
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iomanip>
 #include <iostream>
