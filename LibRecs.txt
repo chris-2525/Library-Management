@@ -1,0 +1,21 @@
+B	1001	C544	The Hobbit	35277	2023/07/14	J. R. R. Tolkien
+B	1002	D208	Harry Potter and the Philosopher's Stone	72685	2023/07/19	J. K. Rowling
+B	1003	N576	The Little Prince	96745	2023/07/19	Antoine de Saint/Exupry
+B	1004	R420	Dream of the Red Chamber	87691	2023/07/24	Cao Xueqin
+B	1005	R393	And Then There Were None	35526	2023/07/12	Agatha Christie
+B	1006	P380	The Lion/ the Witch and the Wardrobe	0	2023/07/18	C. S. Lewis
+B	1007	U264	She: A History of Adventure	0	2023/07/11	H. Rider Haggard
+B	1008	S945	The Adventures of Pinocchio	0	2023/07/18	Carlo Collodi
+B	1009	U818	The Da Vinci Code	0	2023/07/19	Dan Brown
+B	1010	F861	Harry Potter and the Chamber of Secrets	0	2023/07/24	J. K. Rowling
+B	1011	R856	Harry Potter and the Prisoner of Azkaban	0	2023/07/10	J. K. Rowling
+B	1012	C945	Harry Potter and the Goblet of Fire	0	2023/07/14	J. K. Rowling
+B	1013	L290	Harry Potter and the Order of the Phoenix	0	2023/07/11	J. K. Rowling
+B	1014	C332	Harry Potter and the Half/Blood Prince	85952	2023/07/22	J. K. Rowling
+B	1015	C872	Harry Potter and the Deathly Hallows	64984	2023/07/17	J. K. Rowling
+B	1016	Y686	The Alchemist	63288	2023/07/10	Paulo Coelho
+B	1017	E147	The Catcher in the Rye	90607	2023/07/19	J. D. Salinger
+P	1018	P002	The Toronto SUN	85176	2023/07/17
+P	1019	P002	The Toronto SUN	28146	2023/07/11
+P	1020	P002	The Toronto SUN	0	2023/07/24
+P	1021	P002	The Toronto SUN	23427	2023/07/18
